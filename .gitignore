@@ -4,7 +4,11 @@ __pycache__/
 *$py.class
 *.so
 
+# Coverage
+.coverage*
 
+# Test outputs
+tests/
 
 # Virtual Environments
 venv/
@@ -16,4 +20,3 @@ venv/
 .DS_Store
 
 /scratch
-
