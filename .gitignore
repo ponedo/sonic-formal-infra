@@ -1,0 +1,19 @@
+# Python Caching
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+
+
+# Virtual Environments
+venv/
+.env/
+
+# Editor/OS specifics
+.vscode/
+.idea/
+.DS_Store
+
+/scratch
+
